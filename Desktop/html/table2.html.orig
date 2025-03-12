@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title></title>
+</head>
+<body>
+	<h1 align="center">Table</h1>
+<table border="2px" height="75px" width="500px" bordercolor="black"align="center" cellpadding="1px" cellspacing="5px" bgcolor="grey">
+	<tr>
+		<th rowspan="2">Roll no.</th>
+		<th colspan="2">Name</th>
+		<th rowspan="2">Class</th>
+	</tr>
+	<tr>
+			<td>First name</td>
+			<td>Last name</td>
+			
+	</tr>
+	<td>1</td>
+	<td>Parneet</td>
+	<td>Kaur</td>
+	<td>10+1</td>
+	<tr>
+		<td>2</td>
+        <td>Dilpreet</td>
+        <td>Singh</td>
+        <td>10+1</td>
+	</tr>
+	<td>3</td>
+	<td>Mehakpreet</td>
+	<td>Kaur</td>
+	<td>10+1</td>
+</tr>
+</table>
+
+
+
+</table>
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
